@@ -26,6 +26,7 @@ lerna-debug.log*
 # Environment & IDE
 .env
 .env.*
+!.env.example
 .idea/
 .DS_Store
 Thumbs.db
