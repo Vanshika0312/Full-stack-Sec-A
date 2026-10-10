@@ -1,6 +1,6 @@
 # Full Stack Development - Lab Submissions (Sec-A)
 
-Repository containing all labsheet solutions from Labsheet 1 through Labsheet 11.
+Repository containing all labsheet solutions from Labsheet 1 through Labsheet 12.
 
 ---
 
@@ -18,6 +18,7 @@ Repository containing all labsheet solutions from Labsheet 1 through Labsheet 11
 | **Labsheet 9** | Student Record Management System (Node.js, Express, MongoDB CRUD) | [`labsheet 9/`](./labsheet%209/) |
 | **Labsheet 10** | CampusConnect — Event & Announcement Portal (Redis, Socket.io, Docker) | [`labsheet 10/`](./labsheet%2010/) |
 | **Labsheet 11** | CampusConnect — Student Event & Resource Management (RBAC, Rate Limiting, CI/CD) | [`labsheet 11/`](./labsheet%2011/) |
+| **Labsheet 12** | Secure API (JWT Auth), SQL Analytics & Concurrency, Debounced Search, CI/CD Pipeline | [`labsheet 12/`](./labsheet%2012/) |
 
 ---
 
@@ -27,3 +28,4 @@ Repository containing all labsheet solutions from Labsheet 1 through Labsheet 11
 - **Labsheet 9**: Full-stack CRUD student record management system with Node.js, Express, MongoDB/Mongoose, and an interactive frontend.
 - **Labsheet 10**: Enterprise-grade event and announcement portal featuring real-time WebSockets (Socket.io), Redis caching (60s TTL), rate limiting, helmet security, and Docker Compose orchestration.
 - **Labsheet 11**: Full-stack collegiate portal with JWT authentication, Role-Based Access Control (Admin/Student), resource upload/download, Postman collection, rate limiting, and automated CI tests.
+- **Labsheet 12**: Multi-problem assessment covering JWT authentication & user-scoped tasks (Node/Express), advanced SQL window functions & atomic concurrency control, live debounced product search & cart context (React), and Git reflog recovery with multi-version GitHub Actions CI/CD.
